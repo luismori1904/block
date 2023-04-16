@@ -1,0 +1,23 @@
+FORMATO DE TEXTO EN LA WEB
+Formatear el texto en la web se refiere al proceso de darle formato al texto(Darle formato al texto significa aplicar ciertas modificaciones al aspecto visual del texto para mejorar su legibilidad y su apariencia estética. Estos cambios pueden incluir ajustar el tamaño de la letra, cambiar la fuente, aplicar negrita o cursiva, utilizar diferentes colores o resaltar el texto de alguna otra forma.)para que sea más legible y atractivo visualmente. Esto incluye cosas como la elección de fuentes, el tamaño de la letra, el color del texto, la separación de párrafos, la inserción de imágenes y otros elementos multimedia, así como el uso de elementos de diseño como listas, tablas y encabezados.
+
+LENGUAJE DE MARCADO
+Un lenguaje de marcado es un conjunto de reglas que se utilizan para agregar información adicional a un texto. El objetivo principal de un lenguaje de marcado es proporcionar una forma de describir la estructura y el contenido del texto para que sea fácil de procesar y presentar de manera consistente.
+En un lenguaje de marcado, los marcadores o etiquetas se utilizan para identificar diferentes elementos dentro del texto, como encabezados, párrafos, listas, enlaces, imágenes, entre otros. Estas etiquetas están escritas en un formato específico que es fácil de reconocer para los sistemas informáticos.
+Un ejemplo de un lenguaje de marcado ampliamente utilizado es HTML (Hypertext Markup Language), que se utiliza para crear páginas web. Otros ejemplos incluyen Markdown, XML (Extensible Markup Language) y LaTeX, que se utilizan para diferentes propósitos, como la documentación técnica, la edición de texto y la creación de documentos científicos.
+En resumen, un lenguaje de marcado proporciona una forma de estructurar y formatear el contenido de un texto, lo que facilita su procesamiento y presentación en diferentes contextos y plataformas.
+
+MARKDOWN
+
+REPOSITORIO
+
+Un repositorio es un espacio (llamalo carpeta, contenedor, almacén, como prefieras) donde se almacena, mantiene y organiza cierta información. En nuestro caso, con Git, archivos informáticos de todo tipo.
+
+Por ejemplo, estás creando un sitio web o una aplicación, puedes almacenar estos archivos en un repositorio.
+-mkdir proyectos1 #reo un repositorio
+-cd proyectos1 #llamo al respositrio de nombre proyeto1 para alamenar archivo o datos
+-git init #Este comando creará una carpeta oculta llamada ".git" en el directorio actual que contendrá toda la información relacionada con el repositorio.
+ D:/Users/PF/Documents/ proyectos_git/proyecto_1/.git/. Al final, puedes ver que aparece .git/. Esto significa que se ha creado una carpeta dedicada a Git dentro de la  raíz de la carpeta del repositorio (proyecto_1 )
+
+Añadir archivos al repositorio
+Una vez creado el repositorio, puedes añadir todos los archivos que quieras. Por cierto, también podías tener archivos en la carpeta antes de inicializar el repositorio.
